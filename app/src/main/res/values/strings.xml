@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mydrawer</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="login_pref">save</string>
+    <string name="login_status">status</string>
+</resources>
